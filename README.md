@@ -49,13 +49,24 @@ To deploy this project on local host, run
 ```
 
 
-## Important Points
+## FAQs
 
-#### How to run the project on your computer
+#### How to run the project on your local computer?
 
 Download the application.py folder from the repository and write the below command in your terminal to run streamlit application on the local host 
 
 ```bash
   streamlit run application.py
 ```
+#### Is there any special instructions to run the application?
 
+To login the application, enter the following credentials:
+```bash
+  Username: u1
+  Password: abc123
+```
+OR
+```bash
+  Username: u2
+  Password: def456
+```
