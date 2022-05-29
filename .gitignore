@@ -1,0 +1,4 @@
+/app_folder/*.pkl
+/app_folder/*.csv
+/model_folder/*.pkl
+/model_folder/*.csv
