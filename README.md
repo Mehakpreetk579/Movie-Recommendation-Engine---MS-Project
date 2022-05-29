@@ -5,6 +5,11 @@ Recommendation Engine is a filtration program whose prime goal is to predict the
 
 It implements the concept of content based filtering algorithm and sorting algorithm.
 
+## Website Link
+```bash
+  https://movie-recommendation-engine-ms.herokuapp.com/
+```
+
 ## Project Flow
 
 Step 1: Collect the data
@@ -21,19 +26,19 @@ Step 5: Deploy the website
 ## Python requirements :
 
 ```bash
-from cgitb import text
-from email.mime import image
-from unicodedata import name
-import streamlit as st
-from PIL import Image
+  from cgitb import text
+  from email.mime import image
+  from unicodedata import name
+  import streamlit as st
+  from PIL import Image
 
-import pickle
-from pathlib import Path
+  import pickle
+  from pathlib import Path
 
-import pandas as pd
-import requests
+  import pandas as pd
+  import requests
 
-import streamlit_authenticator as stauth
+  import streamlit_authenticator as stauth
 ```
 ## Deployment
 
